@@ -19,6 +19,7 @@
   + 设置 > 剪贴板口令导入 > 贴上 > ok
   + 小程序源合集更新：
     + [4月合集](https://mp.weixin.qq.com/s/Uz3OIr8uJWr2xlxz8W8VkA) / [5月合集](https://mp.weixin.qq.com/s/OSHRfwN8r_n0MvD55_CuaQ)
+    + [6月合集1](https://pastebin.com/raw/UjeFXwby) / [6月合集2](https://pastebin.com/raw/8HqzDGhA)
   + [紧急修复](https://mp.weixin.qq.com/s/GgDhZ7EI_9_QBMuGPBIUVA)
   + [分享个新的音乐规则](https://mp.weixin.qq.com/s/7Lo2PJz19f0-gfqSJZsBBA)
   + [两个新规则](https://mp.weixin.qq.com/s/0UjtGZ1fRnZfRd5N-YcDMQ)
