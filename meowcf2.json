@@ -196,7 +196,6 @@
 {"key":"csp_xpath_4kpianku","name":"4k片库网(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://oneclickrun.yuanhsing.cf/MaooXP/4kpianku.json"},
 {"key":"csp_xpath_xiangdao","name":"农民影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://oneclickrun.yuanhsing.cf/MaooXP/xiangdao.json"},
 {"key":"csp_xpath_lkvod","name":"耐看点播(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://oneclickrun.yuanhsing.cf/MaooXP/lkvod.json"},
-
 {"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MaooXP/czspp.json"},
 {"key":"csp_XPath_bidiys","name":"哔嘀影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MaooXP/bidiys2.json"},
 {"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MaooXP/agefans.json"},
@@ -557,7 +556,7 @@
 # type1 聚合.并发.轮询
 {"name":"线路m9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
-{"name":"293","type":1,"url":"http://81.71.48.249:4456/jsonc/longxia.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
 {"name":"renrenmi2","type":1,"url":"https://a.dxzj88.com/jxrrm/jiami.php?url=","ext":{"flag":["renrenmi"]}},
